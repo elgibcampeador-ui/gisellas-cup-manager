@@ -1,0 +1,5 @@
+{
+  "name": "Gisella's Cup Manager 2.0",
+  "description": "App per la gestione del torneo di calcetto Gisella's Cup, con sistema di prenotazione, calcolo classifica automatizzato e gestione capitani secondo regolamento.",
+  "requestFramePermissions": []
+}
